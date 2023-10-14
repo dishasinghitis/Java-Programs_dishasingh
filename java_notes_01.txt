@@ -1,0 +1,18 @@
+Classes in Java: 
+data is encapsulated in class by placing data fields inside the body of the class definition
+* syntax: class class_name
+	  {
+		datatype variable_name;
+	  }
+* Method dec
+type methodname(parameters)
+{
+    method-body;
+}
+* object creation: 
+classname obj1;
+obj1=new classname_asconstructor();
+OR
+classname obj2=new classname_asconstructor();
+* to access a class member-- objectname.variablename=value;
+			     objectname.methodname(parameterlist);
